@@ -37,6 +37,14 @@ O projeto foi concebido e implementado com foco na adaptação da LP original pa
 - Encaminhamento operacional para continuidade do fluxo comercial
 - Implementação em stack web moderna
 
+## Stack, Integrações e Deploy
+- Aplicação construída em stack web moderna para adaptação internacional da solução original
+- Estrutura funcional orientada à preservação da jornada, da conversão e da continuidade comercial
+- Ajuste da comunicação funcional para inglês sem perda da lógica operacional da LP principal
+- Arquitetura preparada para evolução de integrações e automações comerciais
+- Publicação em ambiente web para utilização em contexto real
+- Deploy realizado na Vercel
+
 ## Valor do Projeto
 Este projeto demonstra a capacidade de internacionalizar uma solução digital sem reduzir o processo a uma simples tradução. O seu valor está em preservar a lógica de conversão, a clareza da proposta, a progressão da jornada e a utilidade operacional da LP original em um contexto internacional.
 
